@@ -1,0 +1,8 @@
+/ec2.tf
+/loadbal.tf
+/londonkey2.pem
+/main.tf
+/outputs.tf
+/route53.tf
+/sg.tf
+/variable.tf
